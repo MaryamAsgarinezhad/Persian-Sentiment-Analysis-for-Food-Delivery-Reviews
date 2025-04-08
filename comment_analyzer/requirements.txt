@@ -1,0 +1,6 @@
+transformers
+sqlalchemy
+pandas
+torch
+python-decouple
+numpy
